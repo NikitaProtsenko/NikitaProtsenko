@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikitaProtsenko
-- 👀 I’m interested in ML and mathematics(linear algebra and game theory)
-- 💞️ I’m looking to collaborate on research and development AI
+- 👀 I’m interested in CV and mathematics(linear algebra and game theory)
+- 💞️ I’m looking to collaborate on research CV
 
 ### :hammer_and_wrench: Languages and Tools :
 
