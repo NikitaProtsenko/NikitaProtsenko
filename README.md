@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NikitaProtsenko
-- 👀 I’m interested in CV
-- 💞️ I’m looking to collaborate on research CV
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
